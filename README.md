@@ -1,4 +1,4 @@
-# COMP6212-Computational-Finace
+# COMP6212 Computational Finace
 
 ## Module Description
 

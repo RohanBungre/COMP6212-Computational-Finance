@@ -12,11 +12,11 @@ This module covers two aspects of the use of computational processing in Finance
 
 Being able to:
 
-1. Demonstrate knowledge and understanding of numerical methods to solve systems of linear equations, to compute quadratures and to solve Ordinary and Partial Differential Equations
-2. Show logical thinking in coding a mathematical problem in algorithmic form
-3. Analyse a mathematical problem and determine which numerical technique to use to solve it
-4. Use a programming language such as Python, its instructions and its programming language
-5. Use knowledge of a programming language such as Python to learn more easily any other programming language for the future.
+1. Identify the methods required to analyse information from financial data and trading systems.
+2. Explain the approaches required to calculate the price of options.
+3. Describe the emerging variants of cryptocurrency-based decentralized system
+4. Analyse the strength and limitations of Blockchain technologies
+5. Understand the mathematical tools, and their computational implementations
 
 ## Technologies Used
 
@@ -28,8 +28,4 @@ Being able to:
 
 ## Repository Content
 
-This repository contains code for 2 different pieces of coursework and one in-class test.
-
-Each coursework demonstrates my ability to break down complex mathematical problems into easier computational problems.
-
-It also contains the exam taken for this module.
+This repository contains a coursework and exam for this module.
